@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <!-- This is the parent sitemap linking to additional sitemaps for products, collections and pages as shown below. The sitemap can not be edited manually, but is kept up to date in real time. -->
+  <sitemap>
+    <loc>https://www.beigebrown.com/sitemap_products_1.xml?from=7035856126124&amp;to=9802822517083</loc>
+    <html:link xmlns:html="http://www.w3.org/1999/xhtml" rel="alternate" hreflang="pl" href="https://www.beigebrown.com/pl/sitemap_products_1.xml?from=7035856126124&amp;to=9802822517083"/>
+    <html:link xmlns:html="http://www.w3.org/1999/xhtml" rel="alternate" hreflang="et" href="https://www.beigebrown.com/et/sitemap_products_1.xml?from=7035856126124&amp;to=9802822517083"/>
+  </sitemap>
+  <sitemap>
+    <loc>https://www.beigebrown.com/sitemap_pages_1.xml?from=81913872556&amp;to=148649476443</loc>
+    <html:link xmlns:html="http://www.w3.org/1999/xhtml" rel="alternate" hreflang="pl" href="https://www.beigebrown.com/pl/sitemap_pages_1.xml?from=81913872556&amp;to=148649476443"/>
+    <html:link xmlns:html="http://www.w3.org/1999/xhtml" rel="alternate" hreflang="et" href="https://www.beigebrown.com/et/sitemap_pages_1.xml?from=81913872556&amp;to=148649476443"/>
+  </sitemap>
+  <sitemap>
+    <loc>https://www.beigebrown.com/sitemap_collections_1.xml?from=278387687596&amp;to=648607564123</loc>
+    <html:link xmlns:html="http://www.w3.org/1999/xhtml" rel="alternate" hreflang="pl" href="https://www.beigebrown.com/pl/sitemap_collections_1.xml?from=278387687596&amp;to=648607564123"/>
+    <html:link xmlns:html="http://www.w3.org/1999/xhtml" rel="alternate" hreflang="et" href="https://www.beigebrown.com/et/sitemap_collections_1.xml?from=278387687596&amp;to=648607564123"/>
+  </sitemap>
+  <sitemap>
+    <loc>https://www.beigebrown.com/sitemap_blogs_1.xml</loc>
+    <html:link xmlns:html="http://www.w3.org/1999/xhtml" rel="alternate" hreflang="pl" href="https://www.beigebrown.com/pl/sitemap_blogs_1.xml"/>
+    <html:link xmlns:html="http://www.w3.org/1999/xhtml" rel="alternate" hreflang="et" href="https://www.beigebrown.com/et/sitemap_blogs_1.xml"/>
+  </sitemap>
+</sitemapindex>
