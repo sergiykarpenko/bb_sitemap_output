@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://www.beigebrown.com/pl/blogs/bb-insights</loc>
-    <lastmod>2025-06-27T16:30:26+03:00</lastmod>
+    <lastmod>2025-06-30T19:34:59+03:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://www.beigebrown.com/blogs/bb-insights"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://www.beigebrown.com/blogs/bb-insights"/>
@@ -2099,5 +2099,17 @@
     <xhtml:link rel="alternate" hreflang="en" href="https://www.beigebrown.com/blogs/bb-insights/linen-shirt-styling-guide"/>
     <xhtml:link rel="alternate" hreflang="pl" href="https://www.beigebrown.com/pl/blogs/bb-insights/linen-shirt-styling-guide"/>
     <xhtml:link rel="alternate" hreflang="et" href="https://www.beigebrown.com/et/blogs/bb-insights/linen-shirt-styling-guide"/>
+  </url>
+  <url>
+    <loc>https://www.beigebrown.com/pl/blogs/bb-insights/mens-shirt-types</loc>
+    <lastmod>2025-06-30T19:34:59+03:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <image:image>
+      <image:loc>https://cdn.shopify.com/s/files/1/0570/7985/7324/articles/BB-blog_shirt-types_cover_ab87b353-dd49-4405-9de6-5710b771c0f9.jpg?v=1751301299</image:loc>
+    </image:image>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.beigebrown.com/blogs/bb-insights/mens-shirt-types"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.beigebrown.com/blogs/bb-insights/mens-shirt-types"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://www.beigebrown.com/pl/blogs/bb-insights/mens-shirt-types"/>
+    <xhtml:link rel="alternate" hreflang="et" href="https://www.beigebrown.com/et/blogs/bb-insights/mens-shirt-types"/>
   </url>
 </urlset>
