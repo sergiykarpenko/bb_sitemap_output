@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://www.beigebrown.com/et/blogs/bb-insights</loc>
-    <lastmod>2025-07-07T16:53:36+03:00</lastmod>
+    <lastmod>2025-07-15T11:04:25+03:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://www.beigebrown.com/blogs/bb-insights"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://www.beigebrown.com/blogs/bb-insights"/>
@@ -2135,5 +2135,17 @@
     <xhtml:link rel="alternate" hreflang="en" href="https://www.beigebrown.com/blogs/bb-insights/european-summer-outfit-ideas"/>
     <xhtml:link rel="alternate" hreflang="pl" href="https://www.beigebrown.com/pl/blogs/bb-insights/european-summer-outfit-ideas"/>
     <xhtml:link rel="alternate" hreflang="et" href="https://www.beigebrown.com/et/blogs/bb-insights/european-summer-outfit-ideas"/>
+  </url>
+  <url>
+    <loc>https://www.beigebrown.com/et/blogs/bb-insights/mens-pants-style-guide</loc>
+    <lastmod>2025-07-15T11:04:25+03:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <image:image>
+      <image:loc>https://cdn.shopify.com/s/files/1/0570/7985/7324/articles/BB-blog_pants-type-men_cover.jpg?v=1752566665</image:loc>
+    </image:image>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.beigebrown.com/blogs/bb-insights/mens-pants-style-guide"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.beigebrown.com/blogs/bb-insights/mens-pants-style-guide"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://www.beigebrown.com/pl/blogs/bb-insights/mens-pants-style-guide"/>
+    <xhtml:link rel="alternate" hreflang="et" href="https://www.beigebrown.com/et/blogs/bb-insights/mens-pants-style-guide"/>
   </url>
 </urlset>
