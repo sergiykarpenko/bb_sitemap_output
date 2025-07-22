@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://www.beigebrown.com/blogs/bb-insights</loc>
-    <lastmod>2025-07-18T17:53:23+03:00</lastmod>
+    <lastmod>2025-07-21T18:41:40+03:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://www.beigebrown.com/blogs/bb-insights"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://www.beigebrown.com/blogs/bb-insights"/>
@@ -2333,5 +2333,18 @@
     <xhtml:link rel="alternate" hreflang="en" href="https://www.beigebrown.com/blogs/bb-insights/linen-matching-set-outfits"/>
     <xhtml:link rel="alternate" hreflang="pl" href="https://www.beigebrown.com/pl/blogs/bb-insights/linen-matching-set-outfits"/>
     <xhtml:link rel="alternate" hreflang="et" href="https://www.beigebrown.com/et/blogs/bb-insights/linen-matching-set-outfits"/>
+  </url>
+  <url>
+    <loc>https://www.beigebrown.com/blogs/bb-insights/how-to-style-mens-chinos</loc>
+    <lastmod>2025-07-21T18:41:40+03:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <image:image>
+      <image:loc>https://cdn.shopify.com/s/files/1/0570/7985/7324/articles/BB-blog_chino-styling_cover_43c85a34-19aa-4359-8499-f128c9609ba8.jpg?v=1753112500</image:loc>
+      <image:title>What to Wear with Chinos: 6 Outfit Ideas to Try On</image:title>
+    </image:image>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.beigebrown.com/blogs/bb-insights/how-to-style-mens-chinos"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.beigebrown.com/blogs/bb-insights/how-to-style-mens-chinos"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://www.beigebrown.com/pl/blogs/bb-insights/how-to-style-mens-chinos"/>
+    <xhtml:link rel="alternate" hreflang="et" href="https://www.beigebrown.com/et/blogs/bb-insights/how-to-style-mens-chinos"/>
   </url>
 </urlset>
