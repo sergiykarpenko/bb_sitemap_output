@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://www.beigebrown.com/pl/blogs/bb-insights</loc>
-    <lastmod>2025-08-13T19:46:14+03:00</lastmod>
+    <lastmod>2025-08-18T21:15:30+03:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://www.beigebrown.com/blogs/bb-insights"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://www.beigebrown.com/blogs/bb-insights"/>
@@ -2243,5 +2243,17 @@
     <xhtml:link rel="alternate" hreflang="en" href="https://www.beigebrown.com/blogs/bb-insights/what-to-wear-for-first-date"/>
     <xhtml:link rel="alternate" hreflang="pl" href="https://www.beigebrown.com/pl/blogs/bb-insights/what-to-wear-for-first-date"/>
     <xhtml:link rel="alternate" hreflang="et" href="https://www.beigebrown.com/et/blogs/bb-insights/what-to-wear-for-first-date"/>
+  </url>
+  <url>
+    <loc>https://www.beigebrown.com/pl/blogs/bb-insights/how-to-style-straight-jeans</loc>
+    <lastmod>2025-08-18T21:15:30+03:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <image:image>
+      <image:loc>https://cdn.shopify.com/s/files/1/0570/7985/7324/articles/BB-blog_style-straight-jeans_cover_f1fb3c29-c281-4328-9c42-98d593252a33.jpg?v=1755540930</image:loc>
+    </image:image>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.beigebrown.com/blogs/bb-insights/how-to-style-straight-jeans"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.beigebrown.com/blogs/bb-insights/how-to-style-straight-jeans"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://www.beigebrown.com/pl/blogs/bb-insights/how-to-style-straight-jeans"/>
+    <xhtml:link rel="alternate" hreflang="et" href="https://www.beigebrown.com/et/blogs/bb-insights/how-to-style-straight-jeans"/>
   </url>
 </urlset>
