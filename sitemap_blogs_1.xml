@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://www.beigebrown.com/blogs/bb-insights</loc>
-    <lastmod>2025-08-23T22:58:09+03:00</lastmod>
+    <lastmod>2025-08-25T22:25:56+03:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://www.beigebrown.com/blogs/bb-insights"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://www.beigebrown.com/blogs/bb-insights"/>
@@ -2437,5 +2437,18 @@
     <xhtml:link rel="alternate" hreflang="en" href="https://www.beigebrown.com/blogs/bb-insights/how-to-style-straight-jeans"/>
     <xhtml:link rel="alternate" hreflang="pl" href="https://www.beigebrown.com/pl/blogs/bb-insights/how-to-style-straight-jeans"/>
     <xhtml:link rel="alternate" hreflang="et" href="https://www.beigebrown.com/et/blogs/bb-insights/how-to-style-straight-jeans"/>
+  </url>
+  <url>
+    <loc>https://www.beigebrown.com/blogs/bb-insights/fall-winter-2025-fashion-trends</loc>
+    <lastmod>2025-08-25T22:25:56+03:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <image:image>
+      <image:loc>https://cdn.shopify.com/s/files/1/0570/7985/7324/articles/BB-blog_fall-winter-trends_cover_57994a78-efca-48e6-99bd-16e238afeec4.jpg?v=1756149956</image:loc>
+      <image:title>Fall/Winter Fashion Trends 2025: Key Styles to Know</image:title>
+    </image:image>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.beigebrown.com/blogs/bb-insights/fall-winter-2025-fashion-trends"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.beigebrown.com/blogs/bb-insights/fall-winter-2025-fashion-trends"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://www.beigebrown.com/pl/blogs/bb-insights/fall-winter-2025-fashion-trends"/>
+    <xhtml:link rel="alternate" hreflang="et" href="https://www.beigebrown.com/et/blogs/bb-insights/fall-winter-2025-fashion-trends"/>
   </url>
 </urlset>
