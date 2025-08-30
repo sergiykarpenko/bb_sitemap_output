@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://www.beigebrown.com/blogs/bb-insights</loc>
-    <lastmod>2025-08-25T22:25:56+03:00</lastmod>
+    <lastmod>2025-08-29T22:08:36+03:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://www.beigebrown.com/blogs/bb-insights"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://www.beigebrown.com/blogs/bb-insights"/>
@@ -2450,5 +2450,18 @@
     <xhtml:link rel="alternate" hreflang="en" href="https://www.beigebrown.com/blogs/bb-insights/fall-winter-2025-fashion-trends"/>
     <xhtml:link rel="alternate" hreflang="pl" href="https://www.beigebrown.com/pl/blogs/bb-insights/fall-winter-2025-fashion-trends"/>
     <xhtml:link rel="alternate" hreflang="et" href="https://www.beigebrown.com/et/blogs/bb-insights/fall-winter-2025-fashion-trends"/>
+  </url>
+  <url>
+    <loc>https://www.beigebrown.com/blogs/bb-insights/best-tops-to-wear-with-jeans</loc>
+    <lastmod>2025-08-29T22:08:36+03:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <image:image>
+      <image:loc>https://cdn.shopify.com/s/files/1/0570/7985/7324/articles/BB-blog_tops_with_jeans_cover_58e22119-8516-4416-a62f-0ef596e037dd.jpg?v=1756494516</image:loc>
+      <image:title>Best Dressy Tops to Wear with Jeans in YEAR_TO_CHANGE</image:title>
+    </image:image>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.beigebrown.com/blogs/bb-insights/best-tops-to-wear-with-jeans"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.beigebrown.com/blogs/bb-insights/best-tops-to-wear-with-jeans"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://www.beigebrown.com/pl/blogs/bb-insights/best-tops-to-wear-with-jeans"/>
+    <xhtml:link rel="alternate" hreflang="et" href="https://www.beigebrown.com/et/blogs/bb-insights/best-tops-to-wear-with-jeans"/>
   </url>
 </urlset>
