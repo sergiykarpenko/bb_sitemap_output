@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://www.beigebrown.com/blogs/bb-insights</loc>
-    <lastmod>2025-08-30T23:04:11+03:00</lastmod>
+    <lastmod>2025-09-01T18:50:30+03:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://www.beigebrown.com/blogs/bb-insights"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://www.beigebrown.com/blogs/bb-insights"/>
@@ -2463,5 +2463,18 @@
     <xhtml:link rel="alternate" hreflang="en" href="https://www.beigebrown.com/blogs/bb-insights/best-tops-to-wear-with-jeans"/>
     <xhtml:link rel="alternate" hreflang="pl" href="https://www.beigebrown.com/pl/blogs/bb-insights/best-tops-to-wear-with-jeans"/>
     <xhtml:link rel="alternate" hreflang="et" href="https://www.beigebrown.com/et/blogs/bb-insights/best-tops-to-wear-with-jeans"/>
+  </url>
+  <url>
+    <loc>https://www.beigebrown.com/blogs/bb-insights/best-cargo-pants-for-men</loc>
+    <lastmod>2025-09-01T18:50:30+03:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <image:image>
+      <image:loc>https://cdn.shopify.com/s/files/1/0570/7985/7324/articles/BB-blog_cargo_pants_men_cover_12a829a4-d253-42bd-9d44-229eb592471a.jpg?v=1756741830</image:loc>
+      <image:title>Best Men's Cargo Pants to Wear All Year Round</image:title>
+    </image:image>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.beigebrown.com/blogs/bb-insights/best-cargo-pants-for-men"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.beigebrown.com/blogs/bb-insights/best-cargo-pants-for-men"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://www.beigebrown.com/pl/blogs/bb-insights/best-cargo-pants-for-men"/>
+    <xhtml:link rel="alternate" hreflang="et" href="https://www.beigebrown.com/et/blogs/bb-insights/best-cargo-pants-for-men"/>
   </url>
 </urlset>
