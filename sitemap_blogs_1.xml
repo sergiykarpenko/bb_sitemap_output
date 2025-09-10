@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://www.beigebrown.com/blogs/bb-insights</loc>
-    <lastmod>2025-09-09T14:29:36+03:00</lastmod>
+    <lastmod>2025-09-09T15:43:12+03:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://www.beigebrown.com/blogs/bb-insights"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://www.beigebrown.com/blogs/bb-insights"/>
@@ -2489,5 +2489,18 @@
     <xhtml:link rel="alternate" hreflang="en" href="https://www.beigebrown.com/blogs/bb-insights/knitted-sets-for-autumn"/>
     <xhtml:link rel="alternate" hreflang="pl" href="https://www.beigebrown.com/pl/blogs/bb-insights/knitted-sets-for-autumn"/>
     <xhtml:link rel="alternate" hreflang="et" href="https://www.beigebrown.com/et/blogs/bb-insights/knitted-sets-for-autumn"/>
+  </url>
+  <url>
+    <loc>https://www.beigebrown.com/blogs/bb-insights/how-to-style-oversized-blazer</loc>
+    <lastmod>2025-09-09T15:43:12+03:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <image:image>
+      <image:loc>https://cdn.shopify.com/s/files/1/0570/7985/7324/articles/BB-blog_oversized-blazer-outfits_cover_6a14f0ed-6598-4e81-9ae5-3d5c60ceb3c8.jpg?v=1757421792</image:loc>
+      <image:title>How to Style: Oversized Blazer Outfit Ideas You'll Love</image:title>
+    </image:image>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.beigebrown.com/blogs/bb-insights/how-to-style-oversized-blazer"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.beigebrown.com/blogs/bb-insights/how-to-style-oversized-blazer"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://www.beigebrown.com/pl/blogs/bb-insights/how-to-style-oversized-blazer"/>
+    <xhtml:link rel="alternate" hreflang="et" href="https://www.beigebrown.com/et/blogs/bb-insights/how-to-style-oversized-blazer"/>
   </url>
 </urlset>
