@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://www.beigebrown.com/pl/blogs/bb-insights</loc>
-    <lastmod>2025-09-09T15:43:12+03:00</lastmod>
+    <lastmod>2025-09-12T16:46:47+03:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://www.beigebrown.com/blogs/bb-insights"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://www.beigebrown.com/blogs/bb-insights"/>
@@ -2315,5 +2315,17 @@
     <xhtml:link rel="alternate" hreflang="en" href="https://www.beigebrown.com/blogs/bb-insights/how-to-style-oversized-blazer"/>
     <xhtml:link rel="alternate" hreflang="pl" href="https://www.beigebrown.com/pl/blogs/bb-insights/how-to-style-oversized-blazer"/>
     <xhtml:link rel="alternate" hreflang="et" href="https://www.beigebrown.com/et/blogs/bb-insights/how-to-style-oversized-blazer"/>
+  </url>
+  <url>
+    <loc>https://www.beigebrown.com/pl/blogs/bb-insights/quiet-luxury-for-men</loc>
+    <lastmod>2025-09-12T16:46:47+03:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <image:image>
+      <image:loc>https://cdn.shopify.com/s/files/1/0570/7985/7324/articles/BB-blog_quiet-luxury-men_cover_8b56ac9e-882b-49d3-ac34-62ca74d9324f.jpg?v=1757684807</image:loc>
+    </image:image>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.beigebrown.com/blogs/bb-insights/quiet-luxury-for-men"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.beigebrown.com/blogs/bb-insights/quiet-luxury-for-men"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://www.beigebrown.com/pl/blogs/bb-insights/quiet-luxury-for-men"/>
+    <xhtml:link rel="alternate" hreflang="et" href="https://www.beigebrown.com/et/blogs/bb-insights/quiet-luxury-for-men"/>
   </url>
 </urlset>
